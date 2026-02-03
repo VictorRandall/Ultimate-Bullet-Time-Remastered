@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"effects/bullettime_matrix"
+	"$alpha"		0.7
+
+	"Proxies"
+	{
+
+
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 60
+		}
+	}
+}

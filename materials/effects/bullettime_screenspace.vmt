@@ -1,0 +1,13 @@
+"Refract"
+{
+	"Refract_dx90"{
+		"$refractamount"	".5"
+	 	"$normalmap"		"effects/bullettime_screenspace"
+		"$forcerefract"		"1"
+		"$bluramount"		"0"
+		"$refracttint" "[1 1 1.0]"
+		"$additive" 1
+	}
+
+}
+ 
